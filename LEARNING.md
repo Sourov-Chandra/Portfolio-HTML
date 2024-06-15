@@ -14,5 +14,13 @@
     - Code Editor: VS Code
     - Brower: Google Chrome
     - Version Control: Git and GitHub
+    - VS Code extensions: Live Server, Prettier code formator
 
 6. Basic structure of HTML
+    - head , body 
+7. Basic Tags, Styling, Debugging
+    - tag? types of tags
+    - attribute
+    - element, content
+    - Debugging
+8. Ba
