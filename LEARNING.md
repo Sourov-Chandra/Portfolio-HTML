@@ -23,4 +23,15 @@
     - attribute
     - element, content
     - Debugging
-8. Ba
+    - comment
+8. Headings, Paragraphs, Line breaks, Horizontal rule
+9. Semantic HTML & Non-Semantic HTML
+    - semantic tag - header, footer, main, form, table
+    - non-semantic tag - div, span
+
+10. Text formatting tags
+11. List
+12. Link 
+13. Table
+14. Form
+15. Deploy
