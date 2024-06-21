@@ -52,6 +52,6 @@
 - form data send to your email
 - multimedia
 - html5 elements
-- deploy
+- deploy in Netlify.com
 
 ##Advanced HTML
